@@ -64,7 +64,9 @@ a:hover {
     background-color: #e4f2f9;
     margin: 100px 0;
 }
-
+.WhatIDo{
+    background-color: white;
+}
 .bottom-container {
     background-color: #144e4e;
     padding: 50px 0 20px;
